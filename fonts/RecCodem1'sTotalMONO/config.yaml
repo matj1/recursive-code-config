@@ -20,7 +20,7 @@
 # Example: "Custom" will yield the family "Rec Mono Custom". 
 # Keep under 13 characters in length to avoid potential OS bugs.
 
-Family Name Suffix: m1's Total MONO Ligless
+Family Name Suffix: m1's Total MONO
 
 # -----------------------------------------------------------------------------
 # Font Styles
@@ -68,7 +68,7 @@ Fonts:
 # Font Features
 
 # Freeze in code ligatures? True or False
-Code Ligatures: False
+Code Ligatures: True
 
 # Include font features to freeze in stylistic options. Copy them below to use. 
 # See README for details.

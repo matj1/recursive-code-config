@@ -20,7 +20,7 @@
 # Example: "Custom" will yield the family "Rec Mono Custom". 
 # Keep under 13 characters in length to avoid potential OS bugs.
 
-Family Name Suffix: m1's Total MONO Ligless
+Family Name Suffix: m1's Zero MONO Ligless
 
 # -----------------------------------------------------------------------------
 # Font Styles
@@ -37,28 +37,28 @@ Family Name Suffix: m1's Total MONO Ligless
 Fonts:
 
   Regular:
-    MONO: 1
+    MONO: 0
     CASL: 0
     wght: 400
     slnt: 0
     CRSV: 0
 
   Italic:
-    MONO: 1
+    MONO: 0
     CASL: 1
     wght: 400
     slnt: -5
     CRSV: 1
 
   Bold:
-    MONO: 1
+    MONO: 0
     CASL: 0
     wght: 750
     slnt: 0
     CRSV: 0
 
   Bold Italic:
-    MONO: 1
+    MONO: 0
     CASL: 1
     wght: 750
     slnt: -5
